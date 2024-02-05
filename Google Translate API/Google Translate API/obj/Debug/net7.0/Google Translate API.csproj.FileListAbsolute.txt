@@ -1,0 +1,17 @@
+C:\Users\Doğukan\source\repos\Google Translate API\Google Translate API\bin\Debug\net7.0\Google Translate API.exe
+C:\Users\Doğukan\source\repos\Google Translate API\Google Translate API\bin\Debug\net7.0\Google Translate API.deps.json
+C:\Users\Doğukan\source\repos\Google Translate API\Google Translate API\bin\Debug\net7.0\Google Translate API.runtimeconfig.json
+C:\Users\Doğukan\source\repos\Google Translate API\Google Translate API\bin\Debug\net7.0\Google Translate API.dll
+C:\Users\Doğukan\source\repos\Google Translate API\Google Translate API\bin\Debug\net7.0\Google Translate API.pdb
+C:\Users\Doğukan\source\repos\Google Translate API\Google Translate API\obj\Debug\net7.0\Google Translate API.csproj.AssemblyReference.cache
+C:\Users\Doğukan\source\repos\Google Translate API\Google Translate API\obj\Debug\net7.0\Google Translate API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doğukan\source\repos\Google Translate API\Google Translate API\obj\Debug\net7.0\Google Translate API.AssemblyInfoInputs.cache
+C:\Users\Doğukan\source\repos\Google Translate API\Google Translate API\obj\Debug\net7.0\Google Translate API.AssemblyInfo.cs
+C:\Users\Doğukan\source\repos\Google Translate API\Google Translate API\obj\Debug\net7.0\Google Translate API.csproj.CoreCompileInputs.cache
+C:\Users\Doğukan\source\repos\Google Translate API\Google Translate API\obj\Debug\net7.0\Google Translate API.dll
+C:\Users\Doğukan\source\repos\Google Translate API\Google Translate API\obj\Debug\net7.0\refint\Google Translate API.dll
+C:\Users\Doğukan\source\repos\Google Translate API\Google Translate API\obj\Debug\net7.0\Google Translate API.pdb
+C:\Users\Doğukan\source\repos\Google Translate API\Google Translate API\obj\Debug\net7.0\Google Translate API.genruntimeconfig.cache
+C:\Users\Doğukan\source\repos\Google Translate API\Google Translate API\obj\Debug\net7.0\ref\Google Translate API.dll
+C:\Users\Doğukan\source\repos\Google Translate API\Google Translate API\bin\Debug\net7.0\RestSharp.dll
+C:\Users\Doğukan\source\repos\Google Translate API\Google Translate API\obj\Debug\net7.0\Google Translate API.csproj.CopyComplete

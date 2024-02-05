@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dNjGdaSbyHXwg9afdn7YyEXiNAa+Ykr1PFboc+sTCFMufWcSt3+MSY/uORWbQtB/SLVQq81MTbbL/k7RCc/3Jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Doğukan\\source\\repos\\Google Translate API\\Google Translate API\\Google Translate API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Doğukan\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Doğukan\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Doğukan\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
